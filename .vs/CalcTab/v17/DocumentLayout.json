@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prdb\\source\\repos\\CalcTab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FE8126-E95C-438A-A915-8E591DD04108}|CalcTab\\CalcTab.csproj|c:\\users\\prdb\\source\\repos\\calctab\\calctab\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FE8126-E95C-438A-A915-8E591DD04108}|CalcTab\\CalcTab.csproj|solutionrelative:calctab\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FE8126-E95C-438A-A915-8E591DD04108}|CalcTab\\CalcTab.csproj|c:\\users\\prdb\\source\\repos\\calctab\\calctab\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{E7FE8126-E95C-438A-A915-8E591DD04108}|CalcTab\\CalcTab.csproj|solutionrelative:calctab\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\CalcTab\\CalcTab\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "CalcTab\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\CalcTab\\CalcTab\\MainWindow.axaml",
+              "RelativeToolTip": "CalcTab\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T10:18:25.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\CalcTab\\CalcTab\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "CalcTab\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\CalcTab\\CalcTab\\MainWindow.axaml.cs",
+              "RelativeToolTip": "CalcTab\\MainWindow.axaml.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAApwOcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:18:20.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
